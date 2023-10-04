@@ -1,0 +1,28 @@
+body {
+    background-color:  hsl(212, 45%, 89%);
+    padding: 10% 45%;
+    text-align: center;
+
+    ;
+}
+.card {
+background-color: hsl(0, 0%, 100%);
+padding: 9%;
+border-radius: 8%;
+width: 195px;
+
+}
+.card img{
+    width: 100%;
+    border-radius: 7%;
+    
+}
+ .bold {
+   font-weight: 700;
+ }
+ .less{
+    color:  hsl(218, 44%, 22%)
+  font-weight:hsl(218, 44%, 22%)
+
+
+ }
